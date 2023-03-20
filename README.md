@@ -4,7 +4,7 @@
 - 🏢 I am currently a student of Analysis and Development of Systems at UNIESP and software developer at Korporate Solution Factory
 - 💻 Work with application development, mainly with Java and Spring Boot as a Back-end developer
 - 💭 Open to face new challenges and passionate about tecnology
-- 👨🏾‍💻 I am also passionate about game development and i'm currently learning about it using C# and the engine Unity.
+- 👨🏾‍💻 I'm very passionate about game development and i'm currently learning about it using C# and the engine Unity.
 #
 
  <div>
